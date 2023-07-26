@@ -20,18 +20,18 @@ You can use the following utility scripts to make commands easier
 
 - `yarn all` to build and test all
 
-# 🥭🍍🍣🍜🥟🍢🥮🍡🍧🧋🍻💭 prettier-microbundle-ava-ts
+# 🥭🍍🍣🍜🥟🍢🥮🍡🍧🧋🍻💭 ethpg
 
 ## User install
 
 ```sh
 
 // build
-npm -g i prettier-microbundle-ava-ts@latest
+npm -g i ethpg@latest
 
 // run
 
-hello-cli
+ethpg
 ```
 
 ## Developer deploy

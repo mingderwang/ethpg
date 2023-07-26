@@ -1,9 +1,9 @@
 {
-  "name": "prettier-microbundle-ava-ts",
-  "version": "1.1.9",
-  "description": "hello-cli",
-  "repository": "https://github.com/mingderwang/prettier-microbundle-ava-ts",
-  "author": "DeathVenom54 <fdragon602@gmail.com>, Ming-der Wang<mingderwang@gmail.com",
+  "name": "ethpg",
+  "version": "0.0.1",
+  "description": "Awesome Eth Playground",
+  "repository": "https://github.com/mingderwang/ethpg",
+  "author": "Ming-der Wang <mingderwang@gmail.com",
   "license": "MIT",
   "private": true,
   "source": "src/main.ts",
@@ -12,7 +12,7 @@
   "unpkg": "dist/main.umd.js",
   "types": "dist/main.d.ts",
   "bin": {
-    "hello-cli": "./cli.js"
+    "ethpg": "./cli.js"
   },
   "files": [
     "dist",
@@ -56,6 +56,7 @@
     "ava",
     "typescrit",
     "microbundle",
-    "prettier"
+    "prettier",
+    "ethereum"
   ]
 }

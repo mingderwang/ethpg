@@ -1,0 +1,10 @@
+.idea
+.vscode
+node_modules
+dist-test
+dist
+cli.js
+src/**/*.js
+src/**/*.jsx
+test/**/*.js
+test/**/*.jsx
